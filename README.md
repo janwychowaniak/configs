@@ -6,5 +6,5 @@ Another configuration possibility might be something like starting the whole thi
 ```bash
 stjerm -k f12 -o 60 -w 800 -h 460 -fn 'Noto Mono 7' &
 ```
-- **ps1** - my current bash command prompt
+- **ps1** - some of my bash command prompts
 
